@@ -3,7 +3,7 @@
 ## Hello, I'm Vincent :wave:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vincent-chege)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/vincent-chege)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/vinn-chege)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/_vincentchege)
 
 ### About Me
@@ -35,14 +35,14 @@ Here are some of the tools I'm proficient with:
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincent-chege&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinn-chege&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect
 
 I'm always excited to connect with like-minded professionals. Reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [GitHub](https://github.com/vincent-chege)
+- [GitHub](https://github.com/vinn-chege)
 - [Twitter](https://twitter.com/_vincentchege)
 
 ### 🚀 Let's Defend the Cyber Space Together!

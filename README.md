@@ -41,7 +41,7 @@ Here are some of the tools I'm proficient with:
 
 I'm always excited to connect with like-minded professionals. Reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/vincent-chege)
 - [GitHub](https://github.com/vinn-chege)
 - [Twitter](https://twitter.com/_vincentchege)
 

@@ -31,12 +31,6 @@ Here are some of the tools I'm proficient with:
 ![Nmap](https://img.shields.io/badge/Nmap-Advanced-informational?style=flat&logo=nmap&logoColor=white&color=yellow)
 ![Snort](https://img.shields.io/badge/Snort-Intermediate-informational?style=flat&logo=snort&logoColor=white&color=blue)
 
-
-
-### 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinn-chege&show_icons=true&theme=radical)
-
 ### 🤝 Let's Connect
 
 I'm always excited to connect with like-minded professionals. Reach out to me on:
